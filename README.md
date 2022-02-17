@@ -33,7 +33,6 @@
   
 <br/>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=yech0i)<br/><br/>
 ![yech0i's github stats](https://github-readme-stats.vercel.app/api?username=yech0i&show_icons=true)
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=y_e_99)](https://solved.ac/y_e_99)
