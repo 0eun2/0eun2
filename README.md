@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yech0i&show_icons=true">
 <div align="center">
-<h3> :rabbit: yech0i </h3>
+<h3> :rabbit: YOUNG3UN </h3>
 
 <a href="https://solved.ac/y_e_99"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=y_e_99"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyech0i&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
