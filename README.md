@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="left" src="http://mazandi.herokuapp.com/api?handle=y_e_99&theme=warm"/>
+<img align="left" src="http://mazandi.herokuapp.com/api?handle=y_e_99&theme=dark"/>
 <div class="pull-right">
 <h3> :computer: Tech Stack </h3>
   
