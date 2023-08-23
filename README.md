@@ -6,6 +6,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyech0i&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 ---
 <a href="mailto:y_e_99@ewhain.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=y_e_99@ewhain.net"/></a>
+<a href="https://velog.io/@yech0i"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://y-e-99.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-thebadge&logo=Tistory&logoColor=white&link=https://y-e-99.tistory.com"/></a>
 </div>
 
