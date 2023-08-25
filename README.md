@@ -1,4 +1,6 @@
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=YOUNG3UN&show_icons=true&theme=dracula">
+-->
 <div align="center">
 <h3> :rabbit: YOUNG3UN </h3>
 
@@ -9,8 +11,6 @@
 <a href="https://velog.io/@yech0i"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://y-e-99.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://y-e-99.tistory.com"/></a>
 </div>
-
-<br>
 
 ---
 
