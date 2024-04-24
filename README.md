@@ -7,7 +7,7 @@
     
   ---
   
-  <a href="mailto:y_e_99@ewhain.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ash240413@gmail.com"/></a>
+  <a href="mailto:ash240313@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ash240313@gmail.com"/></a>
   <a href="https://velog.io/@yech0i"><img src="https://img.shields.io/badge/Study-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://y-e-99.tistory.com"><img src="https://img.shields.io/badge/Project & Algorithm-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://y-e-99.tistory.com"/></a>
   </div>
