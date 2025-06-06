@@ -16,7 +16,7 @@
 -->
 
 <div align="center">
-  <h3> :rabbit: </h3>
+  <h3> :cat: </h3>
   <br>
   <a href="https://solved.ac/y_e_99"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=y_e_99"/></a>
   <br><br>
